@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student
+    Name="Бакунець Божен Артурович"
+    Faculty="Географічний факультет"
+    Cathedra="Кафедра географії України"
+    Average_mark="81"
+	Year_of_start="2019"
+	Number_of_subjects="7">
+  </student>
+  <student
+    Name="Чикаленко Іван Добромирович"
+    Faculty="Історичний факультет"
+    Cathedra="Кафедра історії мистецтв"
+    Average_mark="86"
+	Year_of_start="2020"
+	Number_of_subjects="5">
+  </student>
+  <student
+    Name="Думенко Роксолан Бажанович"
+    Faculty="Філософський факультет"
+    Cathedra="Кафедра історії філософії"
+    Average_mark="83"
+	Year_of_start="2018"
+	Number_of_subjects="6">
+  </student>
+  <student
+    Name="Одарченко Муховіст Жданович"
+    Faculty="Історичний факультет"
+    Cathedra="Кафедра новітньої історії України"
+    Average_mark="81"
+	Year_of_start="2020"
+	Number_of_subjects="5">
+  </student>
+  <student
+    Name="Андрейчук Оримир Борисович"
+    Faculty="Фізичний факультет"
+    Cathedra="Кафедра експериментальної фізики"
+    Average_mark="80"
+	Year_of_start="2018"
+	Number_of_subjects="6">
+  </student>
+  <student
+    Name="Рябоконь Добролюб Янович"
+    Faculty="Факультет інформаційних технологій"
+    Cathedra="Кафедра мережевих та Інтернет технологій"
+    Average_mark="78"
+	Year_of_start="2019"
+	Number_of_subjects="6">
+  </student>
+  <student
+    Name="Дашенко Юліан Ігорович"
+    Faculty="Факультет комп'ютерних наук та кібернетики"
+    Cathedra="Кафедра обчислювальної математики"
+    Average_mark="97"
+	Year_of_start="2018"
+	Number_of_subjects="7">
+  </student>
+  <student
+    Name="Костирко Еразм Тарасович"
+    Faculty="Філософський факультет"
+    Cathedra="Кафедра політичних наук"
+    Average_mark="68"
+	Year_of_start="2021"
+	Number_of_subjects="7">
+  </student>
+  <student
+    Name="Давидко Родослав Зорянович"
+    Faculty="Факультет комп'ютерних наук та кібернетики"
+    Cathedra="Кафедра теоретичної кібернетики"
+    Average_mark="78"
+	Year_of_start="2021"
+	Number_of_subjects="5">
+  </student>
+	<student
+    Name="Майстренко Златодан Юхимович"
+    Faculty="Факультет психології"
+    Cathedra="Кафедра психології розвитку"
+    Average_mark="73"
+	Year_of_start="2021"
+	Number_of_subjects="5">
+	</student>
+</students>

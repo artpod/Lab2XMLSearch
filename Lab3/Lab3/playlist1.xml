@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+  <song
+    Name="Blank Space"
+    Artist="Taylor Swift"
+    Album="1989"
+    Genre="Synthpop"
+	Year="2014"
+	Label="Big Machine Records">
+  </song>
+  <song
+    Name="The Future Never Dies"
+    Artist="Scorpions"
+    Album="Humanity: Hour I"
+    Genre="Classic Rock"
+	Year="2007"
+	Label="RCA Records">
+  </song>
+  <song
+    Name="Little Broken Hearts"
+    Artist="Norah Jones"
+    Album="Little Broken Hearts"
+    Genre="Pop"
+	Year="2012"
+	Label="Blue Note Records">
+  </song>
+  <song
+    Name="Umbrella"
+    Artist="Rihanna ft. Jay-Z"
+    Album="Good Girl Gone Bad"
+    Genre="R&amp;B"
+	Year="2007"
+	Label="Def Jam Recordings">
+  </song>
+  <song
+    Name="State Of Grace"
+    Artist="Taylor Swift"
+    Album="Red"
+    Genre="Pop-Rock"
+	Year="2012"
+	Label="Big Machine Records">
+  </song>
+  <song
+    Name="Believer"
+    Artist="Imagine Dragons"
+    Album="Believer"
+    Genre="Pop-Rock"
+	Year="2017"
+	Label="Interscope">
+  </song>
+  <song
+    Name="Cool Girl"
+    Artist="Tove Lo"
+    Album="Lady Wood"
+    Genre="Pop"
+	Year="2016"
+	Label="Island">
+  </song>
+  <song
+    Name="White Dove"
+    Artist="Scorpions"
+    Album="Live Bites"
+    Genre="Rock"
+	Year="1995"
+	Label="Mercury">
+  </song>
+  <song
+    Name="Ours"
+    Artist="Taylor Swift"
+    Album="Speak Now"
+    Genre="Country"
+	Year="2010"
+	Label="Big Machine Records">
+  </song>
+  <song
+    Name="Immortals"
+    Artist="Fall Out Boy"
+    Album="Immortals"
+    Genre="Pop-Rock"
+	Year="2014"
+	Label="Walt Disney">
+  </song>
+</songs>

@@ -1,0 +1,50 @@
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\TestSax.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\TestSax.pdb
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Lab3.exe
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Lab3.pdb
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Lab3.exe.config
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Женя\Projects\C# Projects\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Женя\Projects\C# Projects\Lab3\TestSax\obj\Debug\TestSax.csprojAssemblyReference.cache
+D:\Женя\Projects\C# Projects\Lab3\TestSax\obj\Debug\TestSax.csproj.CopyComplete
+D:\Женя\Projects\C# Projects\Lab3\TestSax\obj\Debug\TestSax.dll
+D:\Женя\Projects\C# Projects\Lab3\TestSax\obj\Debug\TestSax.pdb
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\TestSax.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\TestSax.pdb
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.exe
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.pdb
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.exe.config
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csproj.CopyComplete
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.dll
+C:\Users\Admin\Desktop\Lab 2 OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.pdb
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\TestSax.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\TestSax.pdb
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.exe
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.pdb
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Lab3.exe.config
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.csproj.CopyComplete
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.dll
+C:\Users\Admin\Desktop\Lab2OOP\Lab3\Lab3\TestSax\obj\Debug\TestSax.pdb
